@@ -1,5 +1,7 @@
 # Paper Reading Club
 
+![In the Salon of Madame Geoffrin in 1755](assets/salon.jpg "In the Salon of Madame Geoffrin in 1755")
+
 | Date       | Title | URL  | Host |
 |------------|-------|------|------|
 |28.07.2024| Scaling to Very Very Large Corpora for Natural Language Disambiguation |[ACL](https://aclanthology.org/P01-1005/)| Jafar Isbarov |
