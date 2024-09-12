@@ -10,3 +10,4 @@
 |17.08.2024| Is Cosine-Similarity of Embeddings Really About Similarity? |[arXiv](https://arxiv.org/abs/2403.05440)| Eyvaz Najafli |
 |24.08.2024| Vision Transformers Need Registers |[ICLR](https://iclr.cc/virtual/2024/oral/19794)| Sanur Jujuyeva |
 |31.08.2024| Grad-CAM: Visual Explanations from Deep Networks via Gradient-Based Localization | [ICCV](https://openaccess.thecvf.com/content_ICCV_2017/papers/Selvaraju_Grad-CAM_Visual_Explanations_ICCV_2017_paper.pdf)| Lala Ibadullayeva |
+|7.09.2024| Understanding deep learning requires rethinking generalization |[ICLR](https://www.semanticscholar.org/paper/Understanding-deep-learning-requires-rethinking-Zhang-Bengio/54ddb00fa691728944fd8becea90a373d21597cf)| Jafar Isbarov |
